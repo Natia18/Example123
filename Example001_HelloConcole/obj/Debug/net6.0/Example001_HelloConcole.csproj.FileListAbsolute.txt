@@ -1,0 +1,15 @@
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.deps.json
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.runtimeconfig.json
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.dll
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.pdb
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.csproj.AssemblyReference.cache
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.AssemblyInfoInputs.cache
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.AssemblyInfo.cs
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.csproj.CoreCompileInputs.cache
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.dll
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/refint/Example001_HelloConcole.dll
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.pdb
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.genruntimeconfig.cache
+/Users/natalyhome27icloud.com/Desktop/Examples/Example001_HelloConcole/obj/Debug/net6.0/ref/Example001_HelloConcole.dll
